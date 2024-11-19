@@ -1,0 +1,2 @@
+yarn add react-toastify axios react-bootstrap bootstrap @reduxjs/toolkit react-redux
+yarn add express mongoose jsonwebtoken cors bcrypt nodemailer
